@@ -1,5 +1,5 @@
 {
-  "version": "2026.1",
-  "download_url": "https://github.com/simPRO-Software/qb-link-releases/releases/2026.1/update.zip",
-  "checksum": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  "version": "2026.2",
+  "downloadUrl": "https://github.com/simPRO-Software/qb-link-releases/raw/refs/heads/master/releases/2026.2/update.zip",
+  "checksum": "sha256:d9c8aa5ebb7fe74c539f3c39b46d13f746907ca1be4eb0a839d8fb178d5998ab"
 }
